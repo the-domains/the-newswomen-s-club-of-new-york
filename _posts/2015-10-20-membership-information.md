@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Eligibility and requirements, online application, membership benefits, and dues info'
-datePublished: '2015-10-20T17:05:20.992Z'
-dateModified: '2015-10-20T17:05:03.701Z'
+datePublished: '2015-10-20T17:17:19.040Z'
+dateModified: '2015-10-20T17:14:28.106Z'
 title: Membership Information
+sourcePath: _posts/2015-10-20-membership-information.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-20-membership-information.md
-published: true
 url: membership-information/index.html
 _type: WebPage
 
@@ -45,10 +45,10 @@ One of the most prestigious journalism awards in the United States, it is also a
 
 How to apply? 
 
-Fill out our online application form here.
+Fill out our online application form.
 You will be asked to upload your resume and provide links to clips of your work.
 If you have any questions, please email membership\[at\]newswomensclubnewyork.com. 
 
 Dues 
 
-Please note, as a nonprofit professional membership organization, we rely on membership dues to cover operating expenses including rent, utilities, office supplies, and the Front Page Awards competition. Dues continue to be $75 per year, a price we've maintained for many years. They are payable online or by check, once your application has been approved.
+Please note, as a nonprofit professional membership organization, we rely on membership dues to cover operating expenses including rent, utilities, office supplies, and the Front Page Awards competition. Dues continue to be $75 annually, a price we've maintained for many years. They are payable online or by check, once your application has been approved.
